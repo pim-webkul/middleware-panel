@@ -1,0 +1,5 @@
+oro_default:
+    path:  /
+    defaults:
+        template:    PanelUIBundle::index.html.twig
+        _controller: FrameworkBundle:Template:template
