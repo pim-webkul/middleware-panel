@@ -1,5 +1,5 @@
 {
-    "name": "webkul/middleware-panel",
+    "name": "pim-webkul/middleware-panel",
     "description": "Middleware panel used to install any symfony bundle and operate your saas based application",
     "license": "OSL-3.0",
     "authors": [
